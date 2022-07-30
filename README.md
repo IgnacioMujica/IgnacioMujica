@@ -1,8 +1,12 @@
 ### 🍂 Bienvenidos 🍁
 
 <table>
-<th><tr><td>AAA<td>AAA</td></td></tr></th>
-<tb><tr><td>AAA</td><td>AAA</td></tr></tb>
+  <tb>
+    <tr>
+      <td>HTML</td><td>Java</td><td>Bootstrap</td>
+      <td>JavaScript</td><td>CSS</td><td>JEE</td>
+    </tr>
+  </tb>
 </table>
 
 <!--
