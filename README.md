@@ -1,15 +1,22 @@
-### 🍂 Bienvenidos 🍁
+### <p align ="center">🍂 Bienvenidos 🍁</p>
 
-<table>
+<table align="center">
   <tb>
-    <tr>
-      <td>HTML</td><td>Java</td><td>Bootstrap</td>
+    <tr align="center">
+      <td>HTML 5</i></td><td>Java</td><td>Bootstrap</td>
     </tr>
-    <tr>
+    <tr align="center">
       <td>JavaScript</td><td>CSS</td><td>JEE</td>
+    </tr>
+    <tr align="center">
+      <td>C</td><td>Python</td><td>SQL</td>
     </tr>
   </tb>
 </table>
+<!--
+SOLID
+herencia polimorfismo
+interfaz-->
 
 <!--
 **IgnacioMujica/IgnacioMujica** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
