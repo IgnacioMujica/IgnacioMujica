@@ -4,6 +4,8 @@
   <tb>
     <tr>
       <td>HTML</td><td>Java</td><td>Bootstrap</td>
+    </tr>
+    <tr>
       <td>JavaScript</td><td>CSS</td><td>JEE</td>
     </tr>
   </tb>
