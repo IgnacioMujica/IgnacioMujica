@@ -14,7 +14,7 @@
   </tb>
 </table>
 
-Llevo unos 3 años aprendiendo programación. Al principio por mi cuenta con ayuda de tutoriales y videos, y ahora últimamente termiando un bootcamp.
+Llevo unos 3 años aprendiendo programación. Al principio por mi cuenta con ayuda de tutoriales y videos, y ahora últimamente termiando un bootcamp.<br />
 Primero un curso online de Python de coursera y la UC.<br />
 https://www.coursera.org/learn/aprendiendo-programar-python<br />
 Como no tenía a veces demasiadas explicaciones, aproveché para ir haciendo uno de Microsoft a la par.<br />
